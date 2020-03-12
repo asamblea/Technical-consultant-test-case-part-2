@@ -1,0 +1,12 @@
+Part 1, see jokes.py
+Install flask
+Funtion 'request 10 jokes randomly' was not implemented due to time limit
+
+Part 2, see calculation.py
+Install pandas and numpy package
+
+run calcaultion.py
+    $python3 calculation.py on Linux and MacOS or
+    $python calculation.py on Windows
+
+and you will see a result.csv created
